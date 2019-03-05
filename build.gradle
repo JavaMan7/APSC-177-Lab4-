@@ -1,0 +1,8 @@
+apply plugin:'cpp-application'
+apply plugin:'eclipse'
+
+application{
+
+	baseName = "Lab	4 Calculate	Average,	Variance	and	Standard	Deviation"
+
+}
